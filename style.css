@@ -1,0 +1,25 @@
+div h1 {
+    text-align: center; color: floralwhite; background-color: black;
+}
+body {
+    font-family: "Poiret One";
+    font-weight: bold;
+}
+
+.title {
+    font-family: "Open Sans";
+}
+
+
+div p {color: darkslategrey;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-size: 30px;
+    text-indent: 50px;
+}
+
+
+.sushi {
+    text-align: center;
+}
