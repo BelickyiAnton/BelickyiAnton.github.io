@@ -1,0 +1,47 @@
+
+
+table {
+
+    width: 500px;
+    height: 150px;
+}
+
+.bold {
+   font-weight: bold;
+}
+
+p:first-letter,
+h1:first-letter{
+    color: crimson;
+    font-family: Lobster;
+    font-size: 50px;
+}
+
+#ogorod {
+    color: coral;
+}
+
+#Sklad {
+    color: blue;
+}
+
+.brein{
+    color: #888888;
+}
+.red{
+    color:red ;
+}
+.green{
+    color: green;
+}
+.backgreen {
+    background-color: green;
+    color: white;
+}
+table {
+    text-align: center;
+}
+.students {
+    color: orange;
+    text-align: left;
+}
